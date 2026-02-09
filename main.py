@@ -1,2 +1,2 @@
-print("Hello GitHub")
-print("Initial version")
+print("Hello DevOps")
+print("VS Code Git workflow")
